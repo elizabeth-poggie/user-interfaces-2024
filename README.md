@@ -1,3 +1,3 @@
 # Intro to User Interfaces
 
-i am another test (wow)
+i am a demo (wow)
